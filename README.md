@@ -44,3 +44,9 @@ You can either contact
 * Contact Ahmed Maged  => maged@brantu.com
 * Contact Mohamed Rizk  => Rizk@brantu.com
 ##############################
+
+### Run the client Application 
+  `npm start`
+  ### Run the backend API 
+  `npm dev`
+

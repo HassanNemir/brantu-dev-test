@@ -1,0 +1,12 @@
+#Product{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 1%;
+    padding: 2%;
+}
+img{
+    width: auto;
+    /* max-width: 400px; */
+    max-height: 120px;
+
+    /* height: 100% */
+}

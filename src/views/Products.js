@@ -25,8 +25,8 @@ class Products extends Component {
             <div id='Products'>
                 <SearchBar click={this.searchText} />
 
-                { this.state.searchProducts ? 
-                <ProductList productName={this.state.searchProducts} products = {this.state.products}/> : null
+                {this.state.searchProducts ?
+                    <ProductList productName={this.state.searchProducts} products={this.state.products} /> : null
                 }
             </div>
         );

@@ -15,9 +15,6 @@ router.get(`/product/`, async (req, res) => {
     } else {
         res.send(await products);
     }
-
-
-
 });
 
 module.exports = router;
